@@ -2,3 +2,4 @@ gitです。
 変更します。
 ・git add
 ・git commit
+・git re
