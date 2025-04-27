@@ -4,3 +4,4 @@ gitです。
 ・git commit
 ・git re
 ・git status
+・git diff
